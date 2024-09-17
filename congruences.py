@@ -1,6 +1,6 @@
+'''
 import math
 
-'''
 if m / (a-b) then a ≡ b * abs(m)
 2x + 1 ≡ 5 - congruence
 
